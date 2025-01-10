@@ -1,0 +1,1 @@
+Bu proje, countries.csv veri seti kullanılarak ülkelerin temel istatistiklerini (nüfus, yüzölçümü, GDP vb.) incelemek ve eksik değer temizliği, görselleştirme gibi veri analizi adımlarını uygulamayı amaçlar.
